@@ -1,4 +1,9 @@
 # Open_Science
+
+
+- Berlin call to action for Open Science - [Recommendations to research institutions](https://en.wikiversity.org/wiki/Wikimedia_Deutschland/Open_Science_Fellows_Program/Berlin_Call_to_Action)
+
+
 Resources for Open Science workshops and trainings
 
 
