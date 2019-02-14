@@ -20,3 +20,8 @@ Europe
 
 Latin America
 - [Open Science Panama Declaration](http://openaccessweek.org/profiles/blogs/open-scicence-panama-declaration-latin-america-going-beyond-open)
+
+
+# Open Science Publishing
+- https://www.pubpub.org/
+- https://www.responsivescience.org/
