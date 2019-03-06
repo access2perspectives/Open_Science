@@ -29,6 +29,12 @@ Germany
 - [Open Science Panama Declaration](http://openaccessweek.org/profiles/blogs/open-scicence-panama-declaration-latin-america-going-beyond-open)
 
 
-# Open Science Publishing
+# Topics
+
+## Open Science Publishing
 - https://www.pubpub.org/
 - https://www.responsivescience.org/
+
+## Open Data
+- https://www.rd-alliance.org/node
+- https://www.nfdi4life.de/ (Germany)
