@@ -10,6 +10,8 @@
 
 - [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/)
 
+- https://moving.mz.tu-dresden.de/mooc
+
 
 ## Regional Initiatives
 
