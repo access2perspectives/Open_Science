@@ -42,6 +42,6 @@ Germany
 - https://www.nfdi4life.de/ (Germany)
 
 ## Registered Reports
-Registered Reports emphasize the importance of the research question and the quality of methodology by conducting peer review prior to data collection. High quality protocols are then provisionally accepted for publication if the authors follow through with the registered methodology. See cos.io/rr for more information. > https://osf.io/3wct2/
+Registered Reports emphasize the importance of the research question and the quality of methodology by conducting peer review prior to data collection. High quality protocols are then provisionally accepted for publication if the authors follow through with the registered methodology. See cos.io/rr for more information. > https://cos.io/rr/ | Registered Reports Now! https://osf.io/3wct2/
 
 ##  Preregistrations
